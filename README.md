@@ -2,7 +2,7 @@
 Input: compound 
 <br/>   (type:str) (chemical composition - A<sub>x</sub>B<sub>y</sub>C<sub>z</sub>)
 
-Compound is identified as either a Superconductor or non-superconductor using a trained xgboost Classifier.
+Compound is classified as either a Superconductor or non-superconductor using a trained xgboost Classifier.
 
 If the compound is a superconductor,
 1. Critical Temperature is predicted
