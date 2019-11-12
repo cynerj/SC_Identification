@@ -1,6 +1,6 @@
 # SC_Identification
 Input: compound 
-  (type:str) (chemical composition - A<sub>x</sub>B<sub>y</sub>C<sub>z</sub>
+<br/>   (type:str) (chemical composition - A<sub>x</sub>B<sub>y</sub>C<sub>z</sub>)
 
 Compound is identified as either a Superconductor or non-superconductor using a trained xgboost Classifier.
 
