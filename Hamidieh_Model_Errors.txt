@@ -1,0 +1,2 @@
+#Error(MAE_train) - Error(RMSE_train) - Error(MAE_Validation) - Error(RMSE_Validation)
+1.3761	4.1494	4.9594	9.2685
